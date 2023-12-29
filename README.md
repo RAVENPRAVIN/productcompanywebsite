@@ -672,8 +672,15 @@ Thus a website is designed for the software product company and the HTML,CSS cod
 ## OUTPUT:
 
 ### Home Page:
+![1 (2)](https://github.com/RAVENPRAVIN/productcompanywebsite/assets/146820534/371b59ed-0a1f-4435-b7ea-b0c946160b71)
 
-![output](./images/homepage.jpg)
+![2](https://github.com/RAVENPRAVIN/productcompanywebsite/assets/146820534/9d12a4d7-9ebe-46eb-9553-299ebc2c737c)
+
+![3](https://github.com/RAVENPRAVIN/productcompanywebsite/assets/146820534/7c37d934-b02f-4981-8c5a-4d21506da140)
+
+![4](https://github.com/RAVENPRAVIN/productcompanywebsite/assets/146820534/819f7d49-5a51-4847-a7a3-6b808a948b63)
+
+![5](https://github.com/RAVENPRAVIN/productcompanywebsite/assets/146820534/15196aac-7a28-4f92-a13f-74c0f77afb7d)
 
 ## Result:
 
